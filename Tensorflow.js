@@ -1,6 +1,6 @@
 # How-to-Detect-Stationery-Thing-In-Machine-learning.
-Detect Stationery thing using Teachable Machine learing
-Javascript
+//Detect Stationery thing using Teachable Machine learing
+//Javascript
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
